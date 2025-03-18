@@ -1,5 +1,4 @@
-<img height="200" width="100%" src="https://user-images.githubusercontent.com/92168231/136594143-38124bfd-0638-429c-b86c-a28616b13f7c.gif">
- ---
+
 <p>
 
  ### About me
